@@ -1,0 +1,1 @@
+Para este ejercicio recurrí una vez mas a la recursividad estableciendo como caso base, los casos en donde el parámetro number es inferior a 1000 y en los casos recursivos se arma la salida llamando a la recursividad, por un lado para los tres digitos menos significativos y por otro lado para la cifra correspondiente a los miles. 
